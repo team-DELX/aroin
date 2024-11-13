@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/45/W9F47F5EX6VQSMKF0M11F3.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
