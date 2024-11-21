@@ -14,7 +14,10 @@
 				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/bumblebee/Github/aroin/aroin/Content/Menus/BP_Pause.uasset",
 				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
-				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Input/IMC_Default.uasset"
+				"/Users/bumblebee/Github/aroin/aroin/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/Menus/WB_Credits.uasset",
+				"/Users/bumblebee/Github/aroin/aroin/Content/Menus/MainMenu.umap",
+				"/Users/bumblebee/Github/aroin/aroin/Content/Menus/WB_MainMenu.uasset"
 			]
 		}
 	]
